@@ -1,0 +1,6 @@
+button style user radius=10px
+button style map radius top left=17px
+button style map radius top right=5px
+background style user color=black
+text style user color=white
+attack button map image=https://cdn.discordapp.com/attachments/682517521739677698/682873875000066048/pixil-frame-0.png
